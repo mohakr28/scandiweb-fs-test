@@ -1,3 +1,7 @@
-# backend/.gitignore
-/vendor
+# Environment variables
 .env
+.env.production
+php_errors.log
+
+# Composer dependencies
+/vendor/

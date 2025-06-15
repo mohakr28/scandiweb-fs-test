@@ -1,5 +1,6 @@
 # Dependencies
 /backend/vendor/
+/backend/.env.production
 /frontend/node_modules/
 
 # IDE / OS files
