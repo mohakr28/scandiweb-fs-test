@@ -1,0 +1,8 @@
+# Dependencies
+/backend/vendor/
+/frontend/node_modules/
+
+# IDE / OS files
+.idea/
+.vscode/
+*.DS_Store
